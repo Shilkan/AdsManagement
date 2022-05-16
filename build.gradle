@@ -1,8 +1,4 @@
 apply plugin: 'com.android.library'
-//configurations {
-//    configurations.maybeCreate("default")
-//    artifacts.add("default", file('unity-ads.aar'))
-//}
 android {
     compileSdk 31
 
